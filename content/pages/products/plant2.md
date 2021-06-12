@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Placeholder
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/household_pkg_plus_1_1507_01JA21_sm.jpeg
 default_original_image: images/plant2-lg.jpg
