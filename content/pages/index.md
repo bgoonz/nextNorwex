@@ -51,7 +51,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/ultra-goose.gif
-    background_image: images/leaf.svg
+    background_image: images/promo.jpg
     cta:
       title: Discover
       url: /store
