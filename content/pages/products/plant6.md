@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
+price: '55'
 title: Placeholder
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/upp_laundry_detergent_1kg_front_silo_web_1125_sm.jpeg
