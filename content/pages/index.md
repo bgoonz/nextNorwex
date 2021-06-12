@@ -48,7 +48,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Do Your Part
     subtitle: from $149.99
     image: images/ultra-goose.gif
     background_image: images/promo.jpg
