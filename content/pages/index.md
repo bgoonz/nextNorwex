@@ -35,8 +35,7 @@ sections:
     testimonials:
       - author: {}
         text: "Founded over 27 years ago in one of the most environmentally friendly countries on Earth, Norwex® has shared the\_“Norwegian Experience”\_with millions around the globe to deliver safer, healthier and more sustainable cleaning and personal care solutions."
-      - author:
-          location: 'VA, USA'
+      - author: {}
         text: >-
           OUR GLOBAL MISSION:  Improving quality of life by radically reducing
           chemicals in our homes.
