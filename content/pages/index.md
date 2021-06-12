@@ -49,7 +49,6 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Do Your Part
-    subtitle: from $149.99
     image: images/ultra-goose.gif
     background_image: images/promo.jpg
     cta:
