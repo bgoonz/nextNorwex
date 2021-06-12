@@ -34,7 +34,6 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
           location: 'Colorado, USA'
         text: "Founded over 27 years ago in one of the most environmentally friendly countries on Earth, Norwex® has shared the\_“Norwegian Experience”\_with millions around the globe to deliver safer, healthier and more sustainable cleaning and personal care solutions."
       - author:
