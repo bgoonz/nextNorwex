@@ -33,8 +33,7 @@ sections:
     section_id: testimonials_section
     title: Testimonials
     testimonials:
-      - author:
-          location: 'Colorado, USA'
+      - author: {}
         text: "Founded over 27 years ago in one of the most environmentally friendly countries on Earth, Norwex® has shared the\_“Norwegian Experience”\_with millions around the globe to deliver safer, healthier and more sustainable cleaning and personal care solutions."
       - author:
           name: Major Payne
