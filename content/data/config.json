@@ -27,6 +27,13 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "domain": "https://friendly-amaranth-51833.netlify.app"
