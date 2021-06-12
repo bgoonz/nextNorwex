@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Top Sellers
 layout: category
 order: 1
 seo:

@@ -1,8 +1,8 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
-title: Curabitur eu tempor
+price: '55'
+title: Placeholder
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/580x580liquid_laundry_72_1_600000_sm.jpeg
 default_original_image: images/plant3-lg.jpg
