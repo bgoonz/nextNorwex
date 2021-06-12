@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/6cf3c907a161450b8b415d765937fe9b7e1b512b.jpg
+default_thumbnail_image: images/rainbow_pkg_1_1508_01JA21_sm.jpeg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
