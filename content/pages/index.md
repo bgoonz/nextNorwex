@@ -38,6 +38,9 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
+        text: >-
+          OUR GLOBAL MISSION:  Improving quality of life by radically reducing
+          chemicals in our homes.
   - type: promotion_section
     section_id: promotion_section
     title: Do Your Part
