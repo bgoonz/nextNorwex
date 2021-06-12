@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '55'
 title: Placeholder
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/357021_fluff_and_tumble_dryer_balls_silo_357021_sm.jpeg
