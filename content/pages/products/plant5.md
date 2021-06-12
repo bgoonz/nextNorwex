@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: '55'
 title: Placeholder
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
