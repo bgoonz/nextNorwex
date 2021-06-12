@@ -2,7 +2,7 @@
 layout: product
 id: '6'
 price: '100.00'
-title: Donec finibus
+title: Placeholder
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/upp_laundry_detergent_1kg_front_silo_web_1125_sm.jpeg
 default_original_image: images/plant6-lg.jpg
