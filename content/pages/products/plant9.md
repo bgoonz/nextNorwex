@@ -2,7 +2,7 @@
 layout: product
 id: '9'
 price: '400.00'
-title: Fusce sagittis
+title: Placeholder
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/just_add_water_pkg_upp_1_1511_01JA21_sm.jpeg
 default_original_image: images/plant9-lg.jpg
