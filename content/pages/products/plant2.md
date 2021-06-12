@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '55'
 title: Placeholder
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/household_pkg_plus_1_1507_01JA21_sm.jpeg
