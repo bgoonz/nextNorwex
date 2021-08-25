@@ -7,13 +7,28 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Planty
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      Norwex believes that every home should be a safe haven. That’s why we
+      constantly strive to bring you the most effective household cleaning and
+      personal care products while radically reducing the use of chemicals in
+      your home.
+
+
+
+
+      *   Not only do our Norwex Microfiber products reduce chemicals used in
+      cleaning, but our other household cleaning products do, too. These
+      products contain ingredients derived from natural botanicals instead of
+      harsh chemicals, and many attain their incredible cleaning power from
+      enzyme-based formulas.
+
+
+      *   In addition, many of our skin care products are certified by such
+      highly regarded agencies as Ecocert, EcoGruppo and NaTrue, which ensure
+      that ingredients are derived from renewable resources and that products
+      are manufactured using environmentally friendly processes. In fact, Norwex
+      is proud to be one of the few companies in North America to offer a
+      complete line of Ecocert-certified products.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
