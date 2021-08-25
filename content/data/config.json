@@ -31,7 +31,7 @@
         {
             "title": "Navigation",
             "url": "#",
-            "style": "primary",
+            "style": "secondary",
             "arrow": false,
             "type": "action"
         },
