@@ -20,6 +20,11 @@ sections:
       - title: Join
         url: 'https://shopus.norwex.biz/en_US/customer/pages/join-norwex'
         style: primary
+        arrow: true
+        type: action
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
         arrow: false
         type: action
     type: hero_section
