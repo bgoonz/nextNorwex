@@ -17,7 +17,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - title: lorem-ipsum
+      - title: Join
         url: 'https://shopus.norwex.biz/en_US/customer/pages/join-norwex'
         style: primary
         arrow: false
