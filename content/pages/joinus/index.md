@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Join US
 page_css_class: joinus
 white_header: true
 sections:
@@ -18,6 +18,9 @@ sections:
         type: action
     type: hero_section
     background_image: images/ultra-goose.gif
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 seo:
   title: ''
   description: ''
