@@ -15,12 +15,29 @@ sections:
         description: "**NaTrue**\_is an international non-profit organization that promotes organic farming and acts to protect biodiversity. NaTrue certification means the product possesses the following attributes:\_\n\n\n\n*   Natural and organic ingredients\n\n*   Soft Manufacturing Processes\n\n*   Environmentally friendly practices\n\n*   No synthetic fragrances and colors\n\n*   No petroleum-derived products\n\n*   No GMOs\n\n*   No irradiation of end product or botanical ingredients\n\n*   Products must not be tested on animals\_\n\n![](https://shopus.norwex.biz/en_US/media-manager/cms-media/na-media/1475899156/411/)\n\n\_\n\n**BDIH**\_is an international organization that ensures the product is free from:\n\n*   Organic or synthetic dyes\n\n*   Synthetic fragrances\n\n*   Ethoxylated raw materials\n\n*   Silicones\n\n*   Paraffins and other petroleum products\n\nThe Norwex Body Lotion, Shower Gel and Hand Cream have all been certified by NaTrue and BDIH.\n"
         image: images/plant7-lg.jpg
       - title: We think plants are the future
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          # Norwex Ingredient Standards&#xA;&#xA;
+
+
+          Norwex believes that every home should be a safe haven. That’s why we
+          constantly strive to bring you the most effective household cleaning
+          and personal care products while radically reducing the use of
+          chemicals in your home.
+
+
+          *   Not only do our Norwex Microfiber products reduce chemicals used
+          in cleaning, but our other household cleaning products do, too. These
+          products contain ingredients derived from natural botanicals instead
+          of harsh chemicals, and many attain their incredible cleaning power
+          from enzyme-based formulas.
+
+
+          *   In addition, many of our skin care products are certified by such
+          highly regarded agencies as Ecocert, EcoGruppo and NaTrue, which
+          ensure that ingredients are derived from renewable resources and that
+          products are manufactured using environmentally friendly processes. In
+          fact, Norwex is proud to be one of the few companies in North America
+          to offer a complete line of Ecocert-certified products.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
