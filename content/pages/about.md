@@ -35,6 +35,7 @@ sections:
           fact, Norwex is proud to be one of the few companies in North America
           to offer a complete line of Ecocert-certified products.
         image: images/team.jpg
+        title: Norwex Ingredient Standards
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
