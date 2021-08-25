@@ -7,28 +7,7 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Norwex
-    subtitle: >
-      Norwex believes that every home should be a safe haven. That’s why we
-      constantly strive to bring you the most effective household cleaning and
-      personal care products while radically reducing the use of chemicals in
-      your home.
-
-
-
-
-      *   Not only do our Norwex Microfiber products reduce chemicals used in
-      cleaning, but our other household cleaning products do, too. These
-      products contain ingredients derived from natural botanicals instead of
-      harsh chemicals, and many attain their incredible cleaning power from
-      enzyme-based formulas.
-
-
-      *   In addition, many of our skin care products are certified by such
-      highly regarded agencies as Ecocert, EcoGruppo and NaTrue, which ensure
-      that ingredients are derived from renewable resources and that products
-      are manufactured using environmentally friendly processes. In fact, Norwex
-      is proud to be one of the few companies in North America to offer a
-      complete line of Ecocert-certified products.
+    subtitle: "**Norwex Timeless Natural Hand Cleaner**\_and\_**Norwex Timeless Relaxation Rescue Gel**\_have been certified by two reputable certification agencies, EcoGruppo and NaTrue.\n\n\n\n![](https://shopus.norwex.biz/en_US/media-manager/cms-media/na-media/1471268745/149/)\n\n**EcoGruppo**, an Italian certification body, ensures that products are formulated with very pure raw materials, particularly from organic farming. EcoGruppo helps ensure eco-sustainable production within agriculture, manufacturing, processing and service industries to guarantee the absence of GMO and ionizing radiation, as well as pesticides and synthetic substances. EcoGruppo ensures that all ingredients and manufacturing processes reflect its organic certification requirements.\n"
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
