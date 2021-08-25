@@ -14,8 +14,7 @@ sections:
       - title: We love plants
         description: "**NaTrue**\_is an international non-profit organization that promotes organic farming and acts to protect biodiversity. NaTrue certification means the product possesses the following attributes:\_\n\n\n\n*   Natural and organic ingredients\n\n*   Soft Manufacturing Processes\n\n*   Environmentally friendly practices\n\n*   No synthetic fragrances and colors\n\n*   No petroleum-derived products\n\n*   No GMOs\n\n*   No irradiation of end product or botanical ingredients\n\n*   Products must not be tested on animals\_\n\n![](https://shopus.norwex.biz/en_US/media-manager/cms-media/na-media/1475899156/411/)\n\n\_\n\n**BDIH**\_is an international organization that ensures the product is free from:\n\n*   Organic or synthetic dyes\n\n*   Synthetic fragrances\n\n*   Ethoxylated raw materials\n\n*   Silicones\n\n*   Paraffins and other petroleum products\n\nThe Norwex Body Lotion, Shower Gel and Hand Cream have all been certified by NaTrue and BDIH.\n"
         image: images/plant7-lg.jpg
-      - title: We think plants are the future
-        description: >
+      - description: >
           # Norwex Ingredient Standards&#xA;&#xA;
 
 
