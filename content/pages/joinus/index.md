@@ -1,7 +1,7 @@
 ---
 title: Join US
 page_css_class: joinus
-white_header: true
+white_header: false
 sections:
   - section_id: joinus
     background_image_opacity: 0
