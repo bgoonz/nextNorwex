@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    background_image_opacity: 0
+    background_image_opacity: 0.8
     content: >-
       ## Lorem ipsum
 
