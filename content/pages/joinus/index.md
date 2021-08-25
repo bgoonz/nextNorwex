@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 page_css_class: joinus
-white_header: false
+white_header: true
 sections:
   - section_id: lorem-ipsum
     background_image_opacity: 0.8
