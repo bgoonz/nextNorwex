@@ -11,7 +11,7 @@
     "bg_image_product": "images/norshort.gif",
     "snipcart_api_key": "M2Y5ZTY1YTMtNGRlMC00ZDUxLTkyMWMtNzE0NzY5NjBhYzgyNjM3NTk4NzQ0NTA4ODM1MTgx",
     "footer_text": "Copyright 2021 Bryan Guner All rights reserved.",
-    "palette": "cyan",
+    "palette": "yellow",
     "main_menu": [
         {
             "title": "Store",
@@ -36,14 +36,28 @@
             "type": "action"
         },
         {
-            "title": "faceook",
+            "title": "Contact",
             "url": "#",
-            "style": "link",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "fakebook",
+            "url": "#",
+            "style": "primary",
             "arrow": true,
             "type": "action"
         },
         {
             "title": "Join Us",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "lorem-ipsum",
             "url": "#",
             "style": "primary",
             "arrow": false,

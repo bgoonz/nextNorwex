@@ -4,18 +4,7 @@ page_css_class: joinus
 white_header: true
 sections:
   - section_id: joinus
-    background_image_opacity: 1
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    background_image_opacity: 0
     actions:
       - title: Join
         url: 'https://shopus.norwex.biz/en_US/customer/pages/join-norwex'
