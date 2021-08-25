@@ -16,7 +16,12 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
     background_image: images/ultra-goose.gif
 seo:
