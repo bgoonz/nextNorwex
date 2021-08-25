@@ -18,6 +18,7 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/ultra-goose.gif
 seo:
   title: ''
   description: ''
