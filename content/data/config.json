@@ -36,6 +36,13 @@
             "type": "action"
         },
         {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
             "title": "faceook",
             "url": "#",
             "style": "link",
