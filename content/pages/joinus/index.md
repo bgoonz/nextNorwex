@@ -3,7 +3,7 @@ title: lorem-ipsum
 page_css_class: joinus
 white_header: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: joinus
     background_image_opacity: 0.8
     content: >-
       ## Lorem ipsum
