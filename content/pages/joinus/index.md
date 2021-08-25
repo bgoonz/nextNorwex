@@ -4,7 +4,7 @@ page_css_class: joinus
 white_header: true
 sections:
   - section_id: joinus
-    background_image_opacity: 0.9
+    background_image_opacity: 0.95
     content: >-
       ## Lorem ipsum
 
