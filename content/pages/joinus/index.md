@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Joi
 page_css_class: joinus
 white_header: true
 sections:
