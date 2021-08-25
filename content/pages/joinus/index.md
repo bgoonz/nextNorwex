@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-page_css_class: lorem-ipsum
+page_css_class: joinus
 white_header: false
 sections:
   - section_id: lorem-ipsum
