@@ -1,7 +1,7 @@
 ---
 title: FAQ
 page_css_class: faq
-white_header: false
+white_header: true
 sections: []
 seo:
   title: ''
