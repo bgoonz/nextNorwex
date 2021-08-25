@@ -45,7 +45,7 @@
         {
             "title": "fakebook",
             "url": "#",
-            "style": "link",
+            "style": "primary",
             "arrow": true,
             "type": "action"
         },
