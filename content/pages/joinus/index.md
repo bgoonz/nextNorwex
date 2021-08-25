@@ -1,5 +1,5 @@
 ---
-title: Joi
+title: Join US
 page_css_class: joinus
 white_header: true
 sections:
