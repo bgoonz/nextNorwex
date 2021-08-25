@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: We are Norwex
     subtitle: >
       Norwex believes that every home should be a safe haven. That’s why we
       constantly strive to bring you the most effective household cleaning and
