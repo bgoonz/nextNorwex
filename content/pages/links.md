@@ -1,6 +1,6 @@
 ---
 title: FAQ
-page_css_class: lorem-ipsum
+page_css_class: faq
 white_header: false
 sections: []
 seo:
