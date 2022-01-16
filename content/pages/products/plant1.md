@@ -2,11 +2,12 @@
 layout: product
 id: '1'
 price: '55'
-title: Rainbow Package, teal, forest, graphite, denim – NEW
+title: 'Rainbow Package, teal, forest, graphite, denim – NEW'
 description: >-
-   An EnviroCloth in four colors, so you can use one color for each area of your home.
+  An EnviroCloth in four colors, so you can use one color for each area of your
+  home.
 default_thumbnail_image: images/rainbow_pkg_1_1508_01JA21_sm.jpeg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/cloth.jpeg
 featured: true
 order: 1
 category: content/pages/category/bigplants.md
