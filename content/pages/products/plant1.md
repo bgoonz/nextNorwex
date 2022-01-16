@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '55'
-title: Placeholder
+title: Rainbow Package, teal, forest, graphite, denim – NEW
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
