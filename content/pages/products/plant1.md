@@ -39,7 +39,7 @@ seo:
       relativeUrl: true
 ---
 
-# Nulla suscipit
+# 
 
 
 -   Our multipurpose EnviroCloth can be used wet or dry to clean everything. 
