@@ -61,3 +61,20 @@ This product was independently tested for harmful substances according to the st
 :: Hide Full Description
 
 35 cm x 35 cm / 13.78" x 13.78"
+
+-   Norwex Microfiber has the ability to remove up to 99% of bacteria from a surface when following the proper care and use instructions.
+-   Used dry for dusting, it creates static electricity that lifts the smallest particles of dust and dirt up into the cloth and prevents them from resettling on surfaces.
+-   Used damp for general cleaning and heavily soiled areas, it picks up everything using water.
+-   The BacLock* in the cloth---our exclusive micro silver antibacterial agent---goes to work to self-purify and inhibit odors from bacteria, mold and mildew growth within the cloth within 24 hours so that it is ready to use again.
+-   STANDARD 100 by OEKO-TEX®certification keeps you and your family safe from harmful substances.
+-   This product and its components have been tested against a list of over 350 harmful substances according to STANDARD 100 by OEKO-TEX®.
+-   Cleans any surface including bathrooms (taps, sinks, tubs, counters, toilets and more), walls, windows, floors, vehicles, toys, tools, kitchen appliances and surfaces, outdoor furniture and much more.
+-   Made with fiber that has a maximum length of more than 10 million feet (3 million meters) for more effective cleaning power
+-   Champagne and rose quartz color options are each made from 70% recycled materials---the equivalent of two 500 ml recycled plastic bottles.
+-   At 1/200th the size of a human hair, Norwex Microfiber is one of the most innovative products in the cleaning industry today.
+-   Can be folded and refolded to create multiple surfaces for nonstop cleaning
+-   No need for harmful chemicals
+-   Saves time and money by using only water
+-   Eliminates the need for paper towels, creating less waste and less paper dust in the home
+-   Eliminates residual "chemical muck" left behind by typical cotton cloths and harsh cleaning products
+-   Traps dust and grime in the cloth and leaves surfaces cleaner, so you won't have to clean as often
